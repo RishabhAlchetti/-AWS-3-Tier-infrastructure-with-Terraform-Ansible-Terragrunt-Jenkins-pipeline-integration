@@ -2,12 +2,11 @@
 
 # Section 1 : Project Architecture :
 
-**Devops Tools Used**
+**Devops and AWS Tools  Used**
  - Git
  - Jenkins
  - Terraform
  - Maven
-**AWS Tools Used**
 -  Public Loadbalancer
 -  Internal loadbalancer
 -  IAM
